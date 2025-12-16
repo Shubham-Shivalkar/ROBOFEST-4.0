@@ -1,4 +1,4 @@
-# ROBOFEST-4.0
+# Autonomous Rover for Unstructured Terrain Exploration 
 Autonomous Rocker-Bogie Rover developed for ROBOFEST Gujarat 4.0 (Level-III Prototype), featuring GNSS-based navigation, LiDAR &amp; Depth Camera SLAM, ROS 2 (Foxy), and rugged mechanical design for extreme terrains.
 This repository documents the design, development, and implementation of an autonomous rover built for ROBOFEST Gujarat 4.0 – Level III Prototype.
 The rover is designed to operate in harsh and uneven terrains, combining a rocker-bogie suspension, high-torque planetary motors, and a ROS 2–based autonomous navigation stack.
@@ -61,9 +61,3 @@ The project integrates mechanical design, embedded systems, robotics middleware,
 - Manual Mode: PS5 controller via ESP32
 - Safety: Emergency stop on obstacle detection
 
-# Competition Details
-- Event: ROBOFEST Gujarat 4.0
-- Level: Level-III (Prototype Demonstration)
-- Team: Team Manik
-- Mentor: Dr. Milind V. Bhalerao
-- Institution: SGGSIE&T, Nanded
